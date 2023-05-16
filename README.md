@@ -30,8 +30,11 @@ Spring Boot 학습 기록
 |코드 백업 및 단계별 변경 사항: 코드 참조 및 디버깅||하|100%||
 |1단계 - Java Spring Framework가 필요한 이유 이해하기||하|100%||
 |2단계 - Java Spring Framework 시작하기||하|100%||
-|3단계 - Maven과 Java로 새 Spring Framework 프로젝트 생성하기|O|하|100%|[이동](https://jhsung.notion.site/spring-initializ-a9bfc8bfa3c5453d96ef7f8949e6386a)|
+|3단계 - Maven과 Java로 새 Spring Framework 프로젝트 생성하기|O|하|100%|<a href="https://jhsung.notion.site/spring-initializ-a9bfc8bfa3c5453d96ef7f8949e6386a" target="_blank">이동</a>|
 |4단계 - Java 게이밍 애플리케이션 시작하기|O|하|100%||
 |5단계 - 느슨한 결합과 강한 결합 알아보기|O|하|100%||
-|6단계 - Java 인터페이스를 도입하여 느슨하게 결합된 앱 만들기|O|하|100%|[이동](https://jhsung.notion.site/Coupling-32e02701c9934dc78d181bdc812daced)|
+|6단계 - Java 인터페이스를 도입하여 느슨하게 결합된 앱 만들기|O|하|100%|<a href="https://jhsung.notion.site/Coupling-32e02701c9934dc78d181bdc812daced" target="_blank">이동</a>|
 |7단계 - Spring Framework를 도입하여 Java 앱 느슨하게 결햡하기||하|100%||
+|8단계 - 첫 번째 Java Spring Bean 및 Java Spring 설정 시작|O|하|100%|<a href="https://jhsung.notion.site/Context-Bean-56c5907b2bb44bedae37700ee7a9cdb6" target="_blank">이동</a>|
+|9단계 - Spring Java 설정 파일에서 더 많은 Java Spring Bean 만들기|O|하|100%||
+|10단계 - Spring Framework Java 구성 파일에서 자동 연결 구현|O|하|100%|<a href="https://jhsung.notion.site/Auto-wiring-5901017e5bf64df295115630d5ec478e" target="_blank">이동</a>|
